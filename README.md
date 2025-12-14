@@ -15,5 +15,6 @@ just copy the style.css to your waybar css :|
 
 ## Preview
 
-
-<img src="./preview.jpg" height="150px">
+<center>
+  <img src="screenshot-2025-12-14_13-17-26.png" height="570px">
+</center>
